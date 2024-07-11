@@ -10,4 +10,21 @@ header{
     padding: 16px 32px;
     display: flex;
     justify-content: center;
+    border-radius: 5px;
+}
+.todoDivArea{
+    display: flex;
+    justify-content: center;
+}
+form{
+    width: 350px;
+    border: 1px solid rgb(19, 115, 148);
+    padding: 20px;
+    margin-top: 20px;
+}
+.todoText{
+    border: none;
+}
+.todoBtn{
+    width: 100px;
 }
